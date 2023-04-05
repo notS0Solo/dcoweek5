@@ -29,6 +29,7 @@
         "drupal/pathauto": "^1.11",
         "drupal/redirect": "^1.8",
         "drupal/schemadotorg": "^1.0@alpha",
+        "drupal/smart_trim": "^2.0",
         "drupal/viewsreference": "^2.0@beta",
         "drush/drush": "^11.5"
     },
